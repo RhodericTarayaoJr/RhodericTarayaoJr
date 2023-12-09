@@ -26,5 +26,5 @@ I am a passionate coder and database enthusiast, always eager to tackle complex 
 - *Tools:* Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Me
-- *LinkedIn:* [LinkedIn Profile](www.linkedin.com/in/rhoderic-tarayao-jr-5833b42a3)
+- *LinkedIn:* [LinkedIn Profile](https://www.linkedin.com/in/rhoderic-tarayao-jr-5833b42a3/)
 - *Email:* rhoderictarayao12@gmail.com
