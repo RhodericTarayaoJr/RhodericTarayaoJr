@@ -20,6 +20,9 @@ I am a passionate coder and database enthusiast, always eager to tackle complex 
 - *SQL and Relational Databases 101*
   [Certificate of completion](https://courses.cognitiveclass.ai/certificates/607728d78fb647eeb67388fbe22b7da9)
 
+- *NoSQL and DBaaS 101*
+  [Certificate of completion](https://courses.cognitiveclass.ai/certificates/ed08281d67544f23affbc13b44c00e63)
+
 ## Skill Sets
 - *Programming:* Java, JavaScript
 - *Databases:* IBM DB2 Cloud
