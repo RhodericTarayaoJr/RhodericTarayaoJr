@@ -23,6 +23,9 @@ I am a passionate coder and database enthusiast, always eager to tackle complex 
 - *NoSQL and DBaaS 101*
   [Certificate of completion](https://courses.cognitiveclass.ai/certificates/ed08281d67544f23affbc13b44c00e63)
 
+- *Introduction to Cybersecurity
+  [Cisco Certification](https://www.credly.com/badges/99a4be07-4ccf-4411-b208-b8b37fee9c0d/public_url)
+
 ## Skill Sets
 - *Programming:* Java, JavaScript
 - *Databases:* IBM DB2 Cloud
