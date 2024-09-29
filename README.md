@@ -26,6 +26,9 @@ I am a passionate coder and database enthusiast, always eager to tackle complex 
 - *Introduction to Cybersecurity*
   [Cisco Certification](https://www.credly.com/badges/99a4be07-4ccf-4411-b208-b8b37fee9c0d/public_url)
 
+- *Ethical Hacker*
+  [Cisco Certification](https://www.credly.com/badges/4d6a1bd4-f71e-483f-bed7-7241fd5d5aa0/public_url)
+
 ## Skill Sets
 - *Programming:* Java, JavaScript
 - *Databases:* IBM DB2 Cloud
